@@ -1,5 +1,5 @@
 ﻿'use strict';
-const BootBot = require('./lib/BootBot');
+const BootBot = require('./lib/BootBot.js');
 const echoModule = require('./modules/echo');
 const config = require('./config/default.json');
 const fetch = require('node-fetch');
